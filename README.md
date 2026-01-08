@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Matheus Gonzaga
 
-Sou estudante de **Desenvolvimento de Software Multiplataforma (DSM)** na **FATEC Praia Grande** e **Técnico em Informática**, com interesse em desenvolvimento web, suporte técnico e tecnologia em geral.
+Sou estudante de **Desenvolvimento de Software Multiplataforma (DSM)** na **FATEC Praia Grande** e formada **Técnico em Informática** pela **ETEC**, com interesse em desenvolvimento web, suporte técnico e tecnologia em geral.
 
 
 ---
