@@ -28,13 +28,9 @@ Sou estudante de **Desenvolvimento de Software Multiplataforma (DSM)** na **FATE
 
 Busco uma **oportunidade de estágio ou vaga júnior na área de TI**, onde eu possa aplicar meus conhecimentos, adquirir experiência prática e evoluir profissionalmente na área de tecnologia.
 
----
-
-## 📫 Contato
-
-- 🔗 LinkedIn: https://www.linkedin.com/in/matheus-victor-gonzaga/
-- 📧 E-mail: matheusgonzagalopesdasilva@gmail.com
-
----
-
-⭐ Fique à vontade para explorar meus repositórios!
+<div> 
+  <a href="https://instagram.com/theus_mt0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:matheusgonzagalopesdasilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-victor-gonzaga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
