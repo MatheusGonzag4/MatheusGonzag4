@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Matheus Gonzaga
 
-<!--
-**MatheusGonzag4/MatheusGonzag4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Desenvolvimento de Software Multiplataforma (DSM)** na **FATEC Praia Grande** e **Técnico em Informática**, com interesse em desenvolvimento web, suporte técnico e tecnologia em geral.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias e Conhecimentos
+
+- 💻 HTML, CSS e JavaScript  
+- 🛠️ Git e GitHub  
+- 🧠 Lógica de Programação  
+- 🌐 Noções de Redes de Computadores  
+- 🤖 Projetos com Arduino  
+
+---
+
+## 📂 Projetos
+
+- 🔹 **Calculadora Web**  
+  Projeto desenvolvido com HTML, CSS e JavaScript para praticar lógica e manipulação do DOM.
+
+*(Em breve mais projetos aqui 👀)*
+
+---
+
+## 🎯 Objetivo Profissional
+
+Busco uma **oportunidade de estágio ou vaga júnior na área de TI**, onde eu possa aplicar meus conhecimentos, adquirir experiência prática e evoluir profissionalmente na área de tecnologia.
+
+---
+
+## 📫 Contato
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/matheus-victor-gonzaga/
+- 📧 E-mail: matheusgonzagalopesdasilva@gmail.com
+
+---
+
+⭐ Fique à vontade para explorar meus repositórios!
